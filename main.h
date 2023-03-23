@@ -16,3 +16,4 @@ struct CauTrucO
     bool BCanMo = false;
     short SBomLanCan = 0;
 };
+

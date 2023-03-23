@@ -144,3 +144,4 @@ void deleteRow(SHORT SStartPos, SHORT SNumberRow)
 	FillConsoleOutputAttribute(hConsoleOutput, 15, ConsoleInfo.dwSize.X * SNumberRow, Pos, &Tmp);
 	SetConsoleCursorPosition(hConsoleOutput, Pos);
 }
+
